@@ -8,5 +8,5 @@
 # pre-requisites
   - in order to view traces in aws x-ray, make sure to include the following aws credentials in app's  .env file
     - `AWS_REGION`
+    - `AWS_ACCESS_KEY_ID`
     - `AWS_SECRET_ACCESS_KEY`
-    - `BUCKET`
