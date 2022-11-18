@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamOneYarn/cascade-agent.git"
+    "url": "git+https://github.com/try-cascade/cascade-agent"
   },
   "keywords": [
     "cascade",
@@ -17,9 +17,9 @@
   "author": "cascade",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TeamOneYarn/cascade-agent/issues"
+    "url": "https://github.com/try-cascade/cascade-agent/issues"
   },
-  "homepage": "https://github.com/TeamOneYarn/cascade-agent#readme",
+  "homepage": "https://github.com/try-cascade/cascade-agent#readme",
   "dependencies": {
     "@opentelemetry/api": "^1.2.0",
     "@opentelemetry/exporter-collector-grpc": "^0.25.0",
